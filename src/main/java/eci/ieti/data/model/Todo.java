@@ -81,6 +81,7 @@ public class Todo {
                 "description='" + description + '\'' +
                 ", dueDate=" + dueDate +
                 ", responsible=" + responsible +
+                
                 '}';
     }
 }
